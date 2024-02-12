@@ -9,4 +9,4 @@ Follow the on-screen prompts to interact with the library system.
 
 ## Authors
 
-- **Sam Ivanov** - *Initial work* - [MyGitHub](https://github.com/SamIvanov7)
+- **Sam Ivanov** - *Solar Book Library Management System* - [MyGitHub](https://github.com/SamIvanov7)
